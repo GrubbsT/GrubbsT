@@ -4,16 +4,16 @@
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/GRUBBST/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/NAME/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/NAME/ticket-lifecycle)
+  - [osTicket: Post-Installation Configuration](https://github.com/GRUBBST/post-install-config)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/GRUBBST/ticket-lifecycle)
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/NAME/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/NAME/azure-network-protocols)
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/GRUBBST/configure-ad)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/GRUBBST/azure-network-protocols)
 
 <h2>🤳Connect with me:</h2>
 
 
-[<img align="left" alt="NAME | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="GRUBBST | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
 
